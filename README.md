@@ -8,16 +8,12 @@ Cursando Análise e Desenvolvimento de Sistemas no IFPR. <br>
 ## 🤝 Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabri.vstrapasson@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrielvstrapasson/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gabri_vstrapasson)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielvstrapasson&theme=violet-punch&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) 
 
 ## GitHub Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielvstrapasson&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Tecnologias
-
 - Em aprendizado:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
