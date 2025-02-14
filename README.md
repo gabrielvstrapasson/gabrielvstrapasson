@@ -1,5 +1,5 @@
 # Olá! Meu nome é Gabriel 
-Atualmente estou aprendendo a desenvolver em NEXTJS | NODEJS | REACT |
+Atualmente estou aprendendo a desenvolver em JAVA SCRIPT | NODEJS
 
 ## 📖 Cursando: <br/>
 Cursando Análise e Desenvolvimento de Sistemas no IFPR. <br>
@@ -18,11 +18,3 @@ Cursando Análise e Desenvolvimento de Sistemas no IFPR. <br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-
-![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![REACT](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
