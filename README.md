@@ -4,6 +4,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 ## 📖 Cursando: <br/>
 Cursando Análise e Desenvolvimento de Sistemas no IFPR. <br>
