@@ -16,8 +16,8 @@ Sou apaixonado por **tecnologia**, sempre em busca de novos conhecimentos e evol
 ## 🧠 Habilidades Técnicas  
 <p align="left">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,react,php,mysql,postgres,redis,rabbitmq,elasticsearch,docker,git,github,vscode,visualstudio,linux,java,spring,html,css,scss,tailwind,jquery,postman,swagger&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" padding="10" height="40" alt="sql server logo" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,vscode,visualstudio,linux,html,css,swagger&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" padding="8" height="30" alt="sql server logo" />
 </div>
 </p>
 
