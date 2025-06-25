@@ -1,4 +1,8 @@
-# 👨‍💻 Olá, eu sou o Gabriel!  
+
+
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=30&center=true&vCenter=true&width=1000&lines=Olá, +eu+sou+o+gabriel;Apaixonado+por+tecnologia" alt="Typing SVG" />
+</div>
 **Estudante de Análise e Desenvolvimento de Sistemas no IFPR**  
 Sou apaixonado por **tecnologia**, sempre em busca de novos conhecimentos e evoluindo a cada dia. 
 
