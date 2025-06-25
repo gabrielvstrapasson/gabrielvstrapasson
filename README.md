@@ -15,9 +15,7 @@ Sou apaixonado por **tecnologia**, sempre em busca de novos conhecimentos e evol
 
 ## 🧠 Habilidades Técnicas  
 <p align="left">
-<div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,vscode,visualstudio,linux,html,css&theme=dark" />
-</div>
 </p>
 
 
