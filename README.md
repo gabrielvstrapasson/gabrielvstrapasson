@@ -17,7 +17,6 @@ Sou apaixonado por **tecnologia**, sempre em busca de novos conhecimentos e evol
 <p align="left">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,vscode,visualstudio,linux,html,css&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" padding="8" height="30" alt="sql server logo" />
 </div>
 </p>
 
