@@ -50,4 +50,3 @@ Sou apaixonado por **tecnologia** e estou sempre buscando novos conhecimentos pa
 
 - ☕ Café + Código = ❤️  
 - 📘 Sempre aprendendo algo novo em tecnologia  
-- 💬 Gosto de colaborar e trocar experiências com outros devs
