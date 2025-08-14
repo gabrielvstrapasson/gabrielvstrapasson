@@ -7,8 +7,6 @@ I'm a Backend Developer Intern at Banco Nacional de Empregos (BNE) and a final-y
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 <img align="right" alt="Developer animation" height="200" src="https://raw.githubusercontent.com/gabrielvstrapasson/gabrielvstrapasson/main/img/pcgif.gif" />
 
 <strong>Core Stack (Backend):</strong><br>
