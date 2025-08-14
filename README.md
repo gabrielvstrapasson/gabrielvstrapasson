@@ -15,7 +15,7 @@ I'm a Backend Developer Intern at Banco Nacional de Empregos (BNE) and a final-y
       <strong>Tools & Technologies:</strong><br>
       <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,mysql&theme=dark" />
     </td>
-    <td width="45%" valign="top" align="center">
+    <td width="45%" valign="top" align="right">
       <img src="img/pcgif.gif" alt="Animação de um computador" width="330" />
     </td>
   </tr>
