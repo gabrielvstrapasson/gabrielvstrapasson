@@ -7,7 +7,7 @@ I'm a Backend Developer Intern at Banco Nacional de Empregos (BNE) and a final-y
 
 ### 🛠️ Tech Stack
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td width="55%" valign="top">
       <strong>Core Stack (Backend):</strong><br>
@@ -21,15 +21,6 @@ I'm a Backend Developer Intern at Banco Nacional de Empregos (BNE) and a final-y
   </tr>
 </table>
 
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielvstrapasson&show_icons=true&theme=tokyonight&hide_border=true&icon_color=945DCA&title_color=945DCA" alt="GitHub Stats" width="49%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvstrapasson&layout=compact&theme=tokyonight&hide_border=true&title_color=945DCA" alt="Top Languages" width="37.3%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/gabrielvstrapasson/" target="_blank">
@@ -40,6 +31,14 @@ I'm a Backend Developer Intern at Banco Nacional de Empregos (BNE) and a final-y
     <img src="https://img.shields.io/badge/Gmail-945DCA?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
 </p>
+
+---
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielvstrapasson&show_icons=true&theme=tokyonight&hide_border=true&icon_color=945DCA&title_color=945DCA" alt="GitHub Stats" width="49%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvstrapasson&layout=compact&theme=tokyonight&hide_border=true&title_color=945DCA" alt="Top Languages" width="37.3%" />
+</p>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
