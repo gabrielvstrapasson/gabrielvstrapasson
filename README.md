@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=945DCA&size=30&center=false&vCenter=true&width=600&lines=Hi,+I'm+Gabriel+Strapasson;Backend+Developer;Passionate+about+technology+and+building+solutions" alt="Typing SVG" />
 </p>
 
-I'm a Backend Developer Intern at Banco Nacional de Empregos (BNE) and a final-year Software Analysis and Development student at IFPR. Passionate about building robust and scalable systems, I specialize in the .NET ecosystem but believe in leveraging the best technology for each challenge to deliver efficient, high-quality solutions.
-
+I'm a Backend Developer Intern at Banco Nacional de Empregos (BNE) and a final-year Software Analysis and Development student at IFPR. 
 
 ### 🛠️ Tech Stack
 
