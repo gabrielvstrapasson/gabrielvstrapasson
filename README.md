@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=945DCA&size=30&center=true&vCenter=true&width=600&lines=Backend+Developer;Graduate+at+IFPR;Post-grad+Student" alt="Typing SVG" />
 </div>
 
-### Sobre Mim
+### About me
 I am a Intern Backend Developer at BNE, graduated from IFPR and currently pursuing a Post-graduate degree in Software Engineering. I have a genuine passion for programming and spend my free time exploring Design Patterns, Clean Architecture, and new technologies to build better, scalable solutions.
 
 ---
