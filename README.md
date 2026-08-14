@@ -5,7 +5,7 @@
 </div>
 
 ### About me
-I am a Intern Backend Developer at BNE, graduated from IFPR and currently pursuing a Post-graduate degree in Software Engineering. I have a genuine passion for programming and spend my free time exploring Design Patterns, Clean Architecture, and new technologies to build better, scalable solutions.
+I am a Backend Developer, graduated from IFPR and currently pursuing a Post-graduate degree in Software Engineering. I have a genuine passion for programming and spend my free time exploring Design Patterns, Clean Architecture, and new technologies to build better, scalable solutions.
 
 ---
 
